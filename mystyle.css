@@ -1,0 +1,32 @@
+//CSS-Datei mystyle.css
+
+body{
+background-color: #c4c4c4;
+}
+
+h1{
+font-family: Consolas;
+font-size: 40px;
+color: green
+background-color: yellow;
+}
+
+h2{
+color: RGB(0,0,0);
+background-color: orangered;
+}
+
+h3{
+font-family: Consolas;
+font-size: 20px;
+color: green
+background-color: green;
+}
+
+
+p,img{
+background: #ccc;
+border: 1px solid;
+font-size: 22px;
+box-shadow:0 0 15px5px#000;
+}
